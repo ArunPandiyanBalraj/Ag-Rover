@@ -1,9 +1,9 @@
 @import "mixins.scss";
 #contentnavbar_NavigationButton1 {	@include elemTop(20);
 }
-#contentnavbar_NavigationButton1 {	@include elemLeft(140);
+#contentnavbar_NavigationButton1 {	@include elemLeft(100);
 }
-#contentnavbar_NavigationButton1 {	@include elemAutoWidth(120);
+#contentnavbar_NavigationButton1 {	@include elemAutoWidth(140);
 }
 #contentnavbar_NavigationButton1 {	@include elemAutoHeight(40);
 }
@@ -11,9 +11,9 @@
 }
 #contentnavbar_NavigationButton2 {	@include elemTop(20);
 }
-#contentnavbar_NavigationButton2 {	@include elemLeft(380);
+#contentnavbar_NavigationButton2 {	@include elemLeft(420);
 }
-#contentnavbar_NavigationButton2 {	@include elemAutoWidth(120);
+#contentnavbar_NavigationButton2 {	@include elemAutoWidth(140);
 }
 #contentnavbar_NavigationButton2 {	@include elemAutoHeight(40);
 }
@@ -21,9 +21,9 @@
 }
 #contentnavbar_NavigationButton3 {	@include elemTop(20);
 }
-#contentnavbar_NavigationButton3 {	@include elemLeft(620);
+#contentnavbar_NavigationButton3 {	@include elemLeft(260);
 }
-#contentnavbar_NavigationButton3 {	@include elemAutoWidth(120);
+#contentnavbar_NavigationButton3 {	@include elemAutoWidth(140);
 }
 #contentnavbar_NavigationButton3 {	@include elemAutoHeight(40);
 }
@@ -31,11 +31,31 @@
 }
 #contentnavbar_LogoutButton1 {	@include elemTop(20);
 }
-#contentnavbar_LogoutButton1 {	@include elemLeft(1280);
+#contentnavbar_LogoutButton1 {	@include elemLeft(1300);
 }
 #contentnavbar_LogoutButton1 {	@include elemAutoWidth(120);
 }
 #contentnavbar_LogoutButton1 {	@include elemAutoHeight(40);
 }
 #contentnavbar_LogoutButton1 {	z-index: 3;
+}
+#contentnavbar_NavigationButton4 {	@include elemTop(20);
+}
+#contentnavbar_NavigationButton4 {	@include elemLeft(580);
+}
+#contentnavbar_NavigationButton4 {	@include elemAutoWidth(140);
+}
+#contentnavbar_NavigationButton4 {	@include elemAutoHeight(40);
+}
+#contentnavbar_NavigationButton4 {	z-index: 4;
+}
+#contentnavbar_NavigationButton5 {	@include elemTop(20);
+}
+#contentnavbar_NavigationButton5 {	@include elemLeft(740);
+}
+#contentnavbar_NavigationButton5 {	@include elemAutoWidth(140);
+}
+#contentnavbar_NavigationButton5 {	@include elemAutoHeight(40);
+}
+#contentnavbar_NavigationButton5 {	z-index: 5;
 }

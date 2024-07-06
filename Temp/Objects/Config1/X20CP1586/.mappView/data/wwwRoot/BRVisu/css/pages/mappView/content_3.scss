@@ -1,0 +1,23 @@
+@import "mixins.scss";
+#content_3_Label1 {	@include elemTop(100);
+}
+#content_3_Label1 {	@include elemLeft(640);
+}
+#content_3_Label1 {	@include elemAutoWidth(640);
+}
+#content_3_Label1 {	@include elemAutoHeight(300);
+}
+#content_3_Label1 {	z-index: 0;
+}
+#content_3_Label1 {	font-size: 50px;
+}
+#content_3_WebViewer1 {	@include elemTop(60);
+}
+#content_3_WebViewer1 {	@include elemLeft(460);
+}
+#content_3_WebViewer1 {	@include elemWidth(640);
+}
+#content_3_WebViewer1 {	@include elemHeight(415);
+}
+#content_3_WebViewer1 {	z-index: 1;
+}

@@ -1,7 +1,7 @@
 @import "mixins.scss";
 #contenttitle_Image1 {	@include elemTop(10);
 }
-#contenttitle_Image1 {	@include elemLeft(1280);
+#contenttitle_Image1 {	@include elemLeft(1300);
 }
 #contenttitle_Image1 {	@include elemAutoWidth(60);
 }
@@ -19,13 +19,13 @@
 }
 #contenttitle_Image1 {	@include border-radius(50px);
 }
-#contenttitle_Image2 {	@include elemTop(20);
+#contenttitle_Image2 {	@include elemTop(8);
 }
-#contenttitle_Image2 {	@include elemLeft(160);
+#contenttitle_Image2 {	@include elemLeft(50);
 }
-#contenttitle_Image2 {	@include elemAutoWidth(220);
+#contenttitle_Image2 {	@include elemAutoWidth(300);
 }
-#contenttitle_Image2 {	@include elemAutoHeight(40);
+#contenttitle_Image2 {	@include elemAutoHeight(60);
 }
 #contenttitle_Image2 {	z-index: 1;
 }
@@ -33,11 +33,13 @@
 }
 #contenttitle_Image2 {	border-width: 0px;
 }
+#contenttitle_Image2 {	@include border-radius(15px);
+}
 #contenttitle_DateTimeOutput1 {	@include elemAutoHeight(30);
 }
-#contenttitle_DateTimeOutput1 {	@include elemTop(20);
+#contenttitle_DateTimeOutput1 {	@include elemTop(10);
 }
-#contenttitle_DateTimeOutput1 {	@include elemLeft(1000);
+#contenttitle_DateTimeOutput1 {	@include elemLeft(1060);
 }
 #contenttitle_DateTimeOutput1 {	@include elemAutoWidth(220);
 }
@@ -46,4 +48,24 @@
 #contenttitle_DateTimeOutput1 {	font-family: Arial Unicode;
 }
 #contenttitle_DateTimeOutput1 {	font-size: 20px;
+}
+#contenttitle_LoginInfo1 {	@include elemAutoWidth(120);
+}
+#contenttitle_LoginInfo1 {	@include elemAutoHeight(30);
+}
+#contenttitle_LoginInfo1 {	@include elemTop(40);
+}
+#contenttitle_LoginInfo1 {	@include elemLeft(1160);
+}
+#contenttitle_LoginInfo1 {	z-index: 3;
+}
+#contenttitle_Image3 {	@include elemTop(10);
+}
+#contenttitle_Image3 {	@include elemLeft(1400);
+}
+#contenttitle_Image3 {	@include elemAutoWidth(80);
+}
+#contenttitle_Image3 {	@include elemAutoHeight(60);
+}
+#contenttitle_Image3 {	z-index: 4;
 }

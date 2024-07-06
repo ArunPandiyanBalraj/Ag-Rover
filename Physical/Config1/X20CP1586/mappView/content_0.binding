@@ -1,5 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BindingsSet id="content_0_binding" xmlns="http://www.br-automation.com/iat2015/binding/engineering/v2" xmlns:bt="http://www.br-automation.com/iat2015/bindingListTypes/engineering/v2" xmlns:be="http://www.br-automation.com/iat2015/bindingListEmbedded/engineering/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Bindings>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Position" attribute="value" />
+<Target xsi:type="brease" contentRefId="content_0" widgetRefId="nooflane1" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Velocity" attribute="value" />
+<Target xsi:type="brease" contentRefId="content_0" widgetRefId="nooflane2" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Acceleration" attribute="value" />
+<Target xsi:type="brease" contentRefId="content_0" widgetRefId="nooflane3" attribute="value" />
+</Binding>
 </Bindings>
 </BindingsSet>

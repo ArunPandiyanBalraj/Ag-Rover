@@ -1,0 +1,11 @@
+@import "mixins.scss";
+#content_5_Login1 {	@include elemTop(200);
+}
+#content_5_Login1 {	@include elemLeft(560);
+}
+#content_5_Login1 {	@include elemWidth(420);
+}
+#content_5_Login1 {	@include elemHeight(140);
+}
+#content_5_Login1 {	z-index: 0;
+}

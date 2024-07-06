@@ -1,368 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BuildReasons>
-  <Rule ID=".mappView_Clean_TransferData_Client">
-    <BuildReason>Rule contains a phony target. </BuildReason>
-  </Rule>
-  <Rule ID=".mappView_Clean_TransferIatr_PLC">
-    <BuildReason>Rule contains a phony target. </BuildReason>
-  </Rule>
-  <Rule ID=".mappView_Clean_Build">
-    <BuildReason>Rule contains a phony target. </BuildReason>
-  </Rule>
-  <Rule ID=".mappView_Clean_TransferData_PLC">
-    <BuildReason>Rule contains a phony target. </BuildReason>
-  </Rule>
-  <Rule ID=".mappView_Clean_Data">
-    <BuildReason>Rule contains a phony target. </BuildReason>
-  </Rule>
-  <Rule ID=".mappView_Clean_Media">
-    <BuildReason>Rule contains a phony target. </BuildReason>
-  </Rule>
-  <Rule ID=".mappView_Clean_TransferIatr_Client">
-    <BuildReason>Rule contains a phony target. </BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\brease\iatc\brvisu\brease._markerfile">
-    <BuildReason>Target "brease._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\transformations_copy._markerfile">
-    <BuildReason>Target "transformations_copy._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\index.html">
-    <BuildReason>Target "index.html" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\favicon.ico">
-    <BuildReason>Target "favicon.ico" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\server\serverdiagnostics._markerfile">
-    <BuildReason>Target "serverdiagnostics._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\brease\iat\build\jsbuild._markerfile">
-    <BuildReason>Target "jsbuild._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\types\area._markerfile">
-    <BuildReason>Target "area._markerfile" does not exist</BuildReason>
-  </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\0_visulist.json">
-    <BuildReason>Target "0_visulist.json" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\duplicatethemesfinder._markerfile">
-    <BuildReason>Target "duplicatethemesfinder._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\iat_media.job._markerfile">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\0_visulist.json" differs.
 </BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\duplicatebindingslistsetsfinder._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validate_visualization._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validate_keywordsets._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\duplicatestylessetsfinder._markerfile">
-    <BuildReason>Target "duplicatestylessetsfinder._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validate_stylessets._markerfile">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\duplicatestylesfinder._markerfile">
-    <BuildReason>Target "duplicatestylesfinder._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\server\vis_0.vis">
-    <BuildReason>Target "vis_0.vis" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\server\config.mappviewcfg">
-    <BuildReason>Target "config.mappviewcfg" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\opcuamap\opcuamap.uar">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\connectivity\opcua\opcuamap.uad" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\arconfig.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\ashwac.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\servo\main.st.o">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\servo\main.st" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mcdrivelog.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mcacpsim.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mcacpsys.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mcacpdrv.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mvloader.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\udbdef.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\tcdata\tcdata.imx">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mcbase.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\mcbase\sg4\ia32\mcbase.br" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mpaxis.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\mpaxis\sg4\ia32\mpaxis.br" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mcaxis.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\mcaxis\sg4\ia32\mcaxis.br" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mpbase.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\mpbase\sg4\ia32\mpbase.br" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\mcacpax.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\libraries\mcacpax\sg4\ia32\mcacpax.br" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\standard.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\servo\_bur_pvdef.st.o">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\servo\a.out">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\servo\servo.ox">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\servo\a.out" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\servo.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\servo\servo.ox" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\role.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\accessandsecurity\userrolesystem\role.role" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\user.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\accessandsecurity\userrolesystem\user.user" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\fwrules.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\accessandsecurity\firewall\rules.firewallrules" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\config_1.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\mappmotion\config_1.axis" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\config_2.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\mappmotion\config_2.axis" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\tcdata\tcdata.s18d">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\tcdata\tcdata.imx" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\config_3.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\mappmotion\config_3.axis" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\iomap.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\iomap.iom" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\sysconf.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\config_4.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1586\mappmotion\config_4.axis" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\asfw.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\ashwd.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\hardware.hw" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\tcdata.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\tcdata\tcdata.s18d" differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\.mappview_prerequisites._markerfile">
-    <BuildReason>Target ".mappview_prerequisites._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\type_sass._markerfile">
-    <BuildReason>Target "type_sass._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\common\busyindicatorhandler\libs\busyindicatorhandler.js._markerfile">
-    <BuildReason>Target "busyindicatorhandler.js._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\system\widgets\common\keyboards\autosize.js._markerfile">
-    <BuildReason>Target "autosize.js._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validate_pages._markerfile">
-    <BuildReason>Target "validate_pages._markerfile" does not exist</BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\dialog_sass._markerfile">
     <BuildReason>Target "dialog_sass._markerfile" does not exist</BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validate_navs._markerfile">
-    <BuildReason>Target "validate_navs._markerfile" does not exist</BuildReason>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\type_sass._markerfile">
+    <BuildReason>Target "type_sass._markerfile" does not exist</BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validate_layouts._markerfile">
-    <BuildReason>Target "validate_layouts._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\bindinglist_trans._markerfile">
-    <BuildReason>ExternalCommand line differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\iat_media.job._markerfile">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\iat_media.job" differs.
 </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validateeventbindings._markerfile">
-    <BuildReason>ExternalCommand line differs.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml">
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\mappview\visualization\pages\sdm\sdm.content" differs.
 </BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validate_themes._markerfile">
-    <BuildReason>Target "validate_themes._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\server\__systemvariables.sessionvar">
-    <BuildReason>Target "__systemvariables.sessionvar" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\css\themes\grunt.themescsso._markerfile">
-    <BuildReason>Target "grunt.themescsso._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\system\widgets\changepassworddialog\meta\changepassworddialog_copied.markerfile">
-    <BuildReason>Target "changepassworddialog_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\image\meta\image_copied.markerfile">
-    <BuildReason>Target "image_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\datetimeoutput\meta\datetimeoutput_copied.markerfile">
-    <BuildReason>Target "datetimeoutput_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\navigationbutton\meta\navigationbutton_copied.markerfile">
-    <BuildReason>Target "navigationbutton_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\button\meta\button_copied.markerfile">
-    <BuildReason>Target "button_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\togglebutton\meta\togglebutton_copied.markerfile">
-    <BuildReason>Target "togglebutton_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\numericinput\meta\numericinput_copied.markerfile">
-    <BuildReason>Target "numericinput_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\logoutbutton\meta\logoutbutton_copied.markerfile">
-    <BuildReason>Target "logoutbutton_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\label\meta\label_copied.markerfile">
-    <BuildReason>Target "label_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\numericoutput\meta\numericoutput_copied.markerfile">
-    <BuildReason>Target "numericoutput_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\groupbox\meta\groupbox_copied.markerfile">
-    <BuildReason>Target "groupbox_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\messagebox\meta\messagebox_copied.markerfile">
-    <BuildReason>Target "messagebox_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\window\meta\window_copied.markerfile">
-    <BuildReason>Target "window_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\dialogwindow\meta\dialogwindow_copied.markerfile">
-    <BuildReason>Target "dialogwindow_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\numpad\meta\numpad_copied.markerfile">
-    <BuildReason>Target "numpad_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\keyboard\meta\keyboard_copied.markerfile">
-    <BuildReason>Target "keyboard_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\datetimepicker\meta\datetimepicker_copied.markerfile">
-    <BuildReason>Target "datetimepicker_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\textinput\meta\textinput_copied.markerfile">
-    <BuildReason>Target "textinput_copied.markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\widgets\brease\password\meta\password_copied.markerfile">
-    <BuildReason>Target "password_copied.markerfile" does not exist</BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\content_trans._markerfile">
     <BuildReason>Target "content_trans._markerfile" does not exist</BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\.mappview_widgetsfinished._markerfile">
-    <BuildReason>Target ".mappview_widgetsfinished._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\validatebindings._markerfile">
-    <BuildReason>Target "validatebindings._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\grunt.breaserelease._markerfile">
-    <BuildReason>Target "grunt.breaserelease._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\eventbinding_trans._markerfile">
-    <BuildReason>Target "eventbinding_trans._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\binding_trans._markerfile">
-    <BuildReason>Target "binding_trans._markerfile" does not exist</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\duplicatebindingsfinder._markerfile">
-    <BuildReason>Target "duplicatebindingsfinder._markerfile" does not exist</BuildReason>
-  </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\vis_0.json">
-    <BuildReason>Target "vis_0.json" does not exist</BuildReason>
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\content_trans._markerfile" differs.
+</BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\content_sass._markerfile">
     <BuildReason>Target "content_sass._markerfile" does not exist</BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\css\brease_core.css">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\content_trans._markerfile" differs.
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\grunt.breasecsso._markerfile">
-    <BuildReason>Target "grunt.breasecsso._markerfile" does not exist</BuildReason>
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1586\.mappview\data\wwwroot\brvisu\css\brease_core.css" differs.
+</BuildReason>
   </Rule>
   <Rule ID=".mappView_Build">
     <BuildReason>Rule contains a phony target. </BuildReason>
   </Rule>
-  <Rule ID=".mappView_FullBuild">
+  <Rule ID=".mappView_IntegrationBuild">
     <BuildReason>Rule contains a phony target. </BuildReason>
   </Rule>
   <Rule ID="#cpu_tp.mak">
     <BuildReason>Rule is forced.</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\binaries\config1\x20cp1586\transfer.lst">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
   </Rule>
 </BuildReasons>

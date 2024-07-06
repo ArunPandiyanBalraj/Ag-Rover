@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?AutomationStudio Version="4.12.2.93"?>
+<TextGroup xmlns="http://br-automation.co.at/AS/VC/Project" Name="MpAlarmState">
+  <Property Name="Description" Value="Texts for alarm state - index 0-1 long, index 10-11 short"/>
+  <Property Name="Index" Value="1150"/>
+  <TextSnippets/>
+  <TextLayer LanguageId="en">
+    <Text ID="206725" Value="Inactive"/>
+    <Text ID="206726" Value="Active"/>
+    <Text ID="206727" Value="0"/>
+    <Text ID="206728" Value="1"/>
+  </TextLayer>
+  <TextLayer LanguageId="de">
+    <Text ID="206725" Value="Inaktiv"/>
+    <Text ID="206726" Value="Aktiv"/>
+    <Text ID="206727" Value="0"/>
+    <Text ID="206728" Value="1"/>
+  </TextLayer>
+  <IndexMap>
+    <Index ID="206725" Value="0"/>
+    <Index ID="206726" Value="1"/>
+    <Index ID="206727" Value="10"/>
+    <Index ID="206728" Value="11"/>
+  </IndexMap>
+</TextGroup>

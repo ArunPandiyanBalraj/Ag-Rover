@@ -1,5 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BindingDefinition xmlns="http://www.br-automation.com/iat2014/binding/runtime/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:br="http://www.br-automation.com/iat2015/bindingList/runtime/v2">
   
+<Content id="content_0"><Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Position" attribute="value" />
+<Target xsi:type="brease" refId="content_0_nooflane1" attribute="value" />
+</Binding><Binding mode="oneWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Position" attribute="editable" />
+<Target xsi:type="brease" refId="content_0_nooflane1" attribute="editable::value" />
+</Binding></Content>
+
+
+
+<Content id="content_0"><Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Velocity" attribute="value" />
+<Target xsi:type="brease" refId="content_0_nooflane2" attribute="value" />
+</Binding><Binding mode="oneWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Velocity" attribute="editable" />
+<Target xsi:type="brease" refId="content_0_nooflane2" attribute="editable::value" />
+</Binding></Content>
+
+
+
+<Content id="content_0"><Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Acceleration" attribute="value" />
+<Target xsi:type="brease" refId="content_0_nooflane3" attribute="value" />
+</Binding><Binding mode="oneWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:AxisParameters.Acceleration" attribute="editable" />
+<Target xsi:type="brease" refId="content_0_nooflane3" attribute="editable::value" />
+</Binding></Content>
+
+
+
 
 </BindingDefinition>

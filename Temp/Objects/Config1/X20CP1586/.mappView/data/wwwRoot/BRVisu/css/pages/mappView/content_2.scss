@@ -1,0 +1,13 @@
+@import "mixins.scss";
+#content_2_Label1 {	@include elemTop(200);
+}
+#content_2_Label1 {	@include elemLeft(740);
+}
+#content_2_Label1 {	@include elemAutoWidth(300);
+}
+#content_2_Label1 {	@include elemAutoHeight(220);
+}
+#content_2_Label1 {	z-index: 0;
+}
+#content_2_Label1 {	font-size: 30px;
+}

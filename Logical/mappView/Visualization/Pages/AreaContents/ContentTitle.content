@@ -1,8 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Content id="contenttitle" height="75" width="1535" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Widgets>
-    <Widget xsi:type="widgets.brease.Image" id="Image1" top="10" left="1280" width="60" height="60" zIndex="0" backColor="rgba(105, 105, 105, 1)" borderStyle="none" borderWidth="0px" borderColor="rgba(1, 1, 1, 1)" cornerRadius="50px" />
-    <Widget xsi:type="widgets.brease.Image" id="Image2" top="20" left="160" width="220" height="40" zIndex="1" backColor="rgba(144, 238, 144, 1)" borderWidth="0px" />
-    <Widget xsi:type="widgets.brease.DateTimeOutput" id="DateTimeOutput1" top="20" left="1000" width="220" zIndex="2" format="" fontName="Arial Unicode" fontSize="20px" />
+    <Widget xsi:type="widgets.brease.Image" id="Image1" top="10" left="1300" width="60" height="60" zIndex="0" backColor="rgba(105, 105, 105, 1)" borderStyle="none" borderWidth="0px" borderColor="rgba(1, 1, 1, 1)" cornerRadius="50px" />
+    <Widget xsi:type="widgets.brease.Image" id="Image2" top="8" left="50" width="300" height="60" zIndex="1" image="Media/AG-1.png" backColor="rgba(144, 238, 144, 1)" borderWidth="0px" cornerRadius="15px" />
+    <Widget xsi:type="widgets.brease.DateTimeOutput" id="DateTimeOutput1" top="10" left="1060" width="220" zIndex="2" format="" fontName="Arial Unicode" fontSize="20px" />
+    <Widget xsi:type="widgets.brease.LoginInfo" id="LoginInfo1" top="40" left="1160" zIndex="3" />
+    <Widget xsi:type="widgets.brease.Image" id="Image3" top="10" left="1400" width="80" height="60" zIndex="4" image="Media/SymbolLib/User/Login.svg" />
   </Widgets>
 </Content>

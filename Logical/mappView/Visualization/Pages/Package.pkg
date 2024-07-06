@@ -4,5 +4,10 @@
   <Objects>
     <Object Type="Package" Description="AreaContents">AreaContents</Object>
     <Object Type="Package">MainPage</Object>
+    <Object Type="Package">AlarmHistory</Object>
+    <Object Type="Package">Alarm</Object>
+    <Object Type="Package">SDM</Object>
+    <Object Type="Package">Capacity</Object>
+    <Object Type="Package">SignIn</Object>
   </Objects>
 </Package>

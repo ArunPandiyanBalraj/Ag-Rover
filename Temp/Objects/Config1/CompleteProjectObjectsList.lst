@@ -5,7 +5,7 @@
     Path="C:\BRproject\Ag-Rover\Logical\Package.pkg"
     LogicalPath=""
     Type="Package.ParentUnknown"
-    LastWriteTime="133645539228066586" />
+    LastWriteTime="133647116064581054" />
   <Object
     Path="C:\BRproject\Ag-Rover\Temp\Includes\AS_TempDecl\Config1\GlobalComponents\McElements.var"
     LogicalPath="McElements.var"
@@ -292,7 +292,7 @@
     Path="C:\BRproject\Ag-Rover\Logical\servo\Main.st"
     LogicalPath="servo.Main.st"
     Type="File"
-    LastWriteTime="133645539229170002"
+    LastWriteTime="133645565488355793"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Logical\servo\Types.typ"
@@ -340,12 +340,12 @@
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Resources\Themes\Package.pkg"
     LogicalPath="mappView.Resources.Themes"
     Type="Package"
-    LastWriteTime="133645539229070053" />
+    LastWriteTime="133646481767118122" />
   <Object
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Resources\Media\Package.pkg"
     LogicalPath="mappView.Resources.Media"
     Type="Package"
-    LastWriteTime="133645539228066586" />
+    LastWriteTime="133645681410369891" />
   <Object
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Resources\Media\speaker-filled-audio-tool_59284.png"
     LogicalPath="mappView.Resources.Media.speaker-filled-audio-tool_59284.png"
@@ -1239,6 +1239,12 @@
     LastWriteTime="133645539228969999"
     Private="false" />
   <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Resources\Media\AG-1.png"
+    LogicalPath="mappView.Resources.Media.AG-1.png"
+    Type="File"
+    LastWriteTime="133645681410239736"
+    Private="false" />
+  <Object
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Package.pkg"
     LogicalPath="mappView.Visualization"
     Type="Package"
@@ -1247,7 +1253,7 @@
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\Package.pkg"
     LogicalPath="mappView.Visualization.Pages"
     Type="Package"
-    LastWriteTime="133645539229170002" />
+    LastWriteTime="133646401701077125" />
   <Object
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\AreaContents\Package.pkg"
     LogicalPath="mappView.Visualization.Pages.AreaContents"
@@ -1257,30 +1263,115 @@
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\AreaContents\ContentTitle.content"
     LogicalPath="mappView.Visualization.Pages.AreaContents.ContentTitle.content"
     Type="File"
-    LastWriteTime="133645539229070053"
+    LastWriteTime="133646497038900595"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\AreaContents\ContentNavbar.content"
     LogicalPath="mappView.Visualization.Pages.AreaContents.ContentNavbar.content"
     Type="File"
-    LastWriteTime="133645539229070053"
+    LastWriteTime="133646426434485450"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\MainPage\Package.pkg"
     LogicalPath="mappView.Visualization.Pages.MainPage"
     Type="Package"
-    LastWriteTime="133645539229170002" />
+    LastWriteTime="133646255310945428" />
   <Object
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\MainPage\Page.page"
     LogicalPath="mappView.Visualization.Pages.MainPage.Page.page"
     Type="File"
-    LastWriteTime="133645539229170002"
+    LastWriteTime="133646256727247966"
     Private="false" />
   <Object
-    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\MainPage\MainArea.content"
-    LogicalPath="mappView.Visualization.Pages.MainPage.MainArea.content"
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\MainPage\MainPage.content"
+    LogicalPath="mappView.Visualization.Pages.MainPage.MainPage.content"
     Type="File"
-    LastWriteTime="133645539229170002"
+    LastWriteTime="133646458611115039"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\AlarmHistory\Package.pkg"
+    LogicalPath="mappView.Visualization.Pages.AlarmHistory"
+    Type="Package"
+    LastWriteTime="133646255062566616" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\AlarmHistory\Page.page"
+    LogicalPath="mappView.Visualization.Pages.AlarmHistory.Page.page"
+    Type="File"
+    LastWriteTime="133646256726556973"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\AlarmHistory\AlarmHistory.content"
+    LogicalPath="mappView.Visualization.Pages.AlarmHistory.AlarmHistory.content"
+    Type="File"
+    LastWriteTime="133646286445464894"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\Alarm\Package.pkg"
+    LogicalPath="mappView.Visualization.Pages.Alarm"
+    Type="Package"
+    LastWriteTime="133646281513341178" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\Alarm\Page.page"
+    LogicalPath="mappView.Visualization.Pages.Alarm.Page.page"
+    Type="File"
+    LastWriteTime="133646286442408357"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\Alarm\Alarm.content"
+    LogicalPath="mappView.Visualization.Pages.Alarm.Alarm.content"
+    Type="File"
+    LastWriteTime="133646286446206246"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\SDM\Package.pkg"
+    LogicalPath="mappView.Visualization.Pages.SDM"
+    Type="Package"
+    LastWriteTime="133646283558120706" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\SDM\Page.page"
+    LogicalPath="mappView.Visualization.Pages.SDM.Page.page"
+    Type="File"
+    LastWriteTime="133646286443194138"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\SDM\SDM.content"
+    LogicalPath="mappView.Visualization.Pages.SDM.SDM.content"
+    Type="File"
+    LastWriteTime="133647123210620492"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\Capacity\Package.pkg"
+    LogicalPath="mappView.Visualization.Pages.Capacity"
+    Type="Package"
+    LastWriteTime="133646285333099079" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\Capacity\Page.page"
+    LogicalPath="mappView.Visualization.Pages.Capacity.Page.page"
+    Type="File"
+    LastWriteTime="133646313209509121"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\Capacity\Capacity.content"
+    LogicalPath="mappView.Visualization.Pages.Capacity.Capacity.content"
+    Type="File"
+    LastWriteTime="133646286447692307"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\SignIn\Package.pkg"
+    LogicalPath="mappView.Visualization.Pages.SignIn"
+    Type="Package"
+    LastWriteTime="133646402575783667" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\SignIn\Page.page"
+    LogicalPath="mappView.Visualization.Pages.SignIn.Page.page"
+    Type="File"
+    LastWriteTime="133646408073930483"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Pages\SignIn\SignIn.content"
+    LogicalPath="mappView.Visualization.Pages.SignIn.SignIn.content"
+    Type="File"
+    LastWriteTime="133646406326045518"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Logical\mappView\Visualization\Variables\Package.pkg"
@@ -1337,7 +1428,7 @@
     Path="C:\BRproject\Ag-Rover\Physical\Config1\Hardware.hw"
     LogicalPath="Config1.Hardware.hw"
     Type="File"
-    LastWriteTime="133645539229271192"
+    LastWriteTime="133646766004338478"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\Hardware.hwl"
@@ -1349,12 +1440,12 @@
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\Cpu.pkg"
     LogicalPath="Config1.X20CP1586"
     Type="Cpu"
-    LastWriteTime="133645539229471984" />
+    LastWriteTime="133647123151347365" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\Cpu.sw"
     LogicalPath="Config1.X20CP1586.Cpu.sw"
     Type="File"
-    LastWriteTime="133645539229471984"
+    LastWriteTime="133647116066841839"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\Cpu.per"
@@ -1388,7 +1479,7 @@
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\Connectivity\OpcUA\OpcUaMap.uad"
     LogicalPath="Config1.X20CP1586.Connectivity.OpcUA.OpcUaMap.uad"
     Type="File"
-    LastWriteTime="133645539229371531"
+    LastWriteTime="133645575829371689"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\Connectivity\OpcUaFx\Package.pkg"
@@ -1399,7 +1490,7 @@
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\TextSystem\Package.pkg"
     LogicalPath="Config1.X20CP1586.TextSystem"
     Type="Package"
-    LastWriteTime="133645539229471984" />
+    LastWriteTime="133646735173121246" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\UnitSystem\Package.pkg"
     LogicalPath="Config1.X20CP1586.UnitSystem"
@@ -1419,13 +1510,13 @@
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\AccessAndSecurity\UserRoleSystem\Role.role"
     LogicalPath="Config1.X20CP1586.AccessAndSecurity.UserRoleSystem.Role.role"
     Type="File"
-    LastWriteTime="133645539229371531"
+    LastWriteTime="133646399911985711"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\AccessAndSecurity\UserRoleSystem\User.user"
     LogicalPath="Config1.X20CP1586.AccessAndSecurity.UserRoleSystem.User.user"
     Type="File"
-    LastWriteTime="133645539229371531"
+    LastWriteTime="133646400429705937"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\AccessAndSecurity\CertificateStore\Package.pkg"
@@ -1541,7 +1632,7 @@
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\mappView\Package.pkg"
     LogicalPath="Config1.X20CP1586.mappView"
     Type="Package"
-    LastWriteTime="133645539229571794" />
+    LastWriteTime="133647113494977940" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\mappView\Config.mappviewcfg"
     LogicalPath="Config1.X20CP1586.mappView.Config.mappviewcfg"
@@ -1558,13 +1649,25 @@
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\mappView\Visualizat.vis"
     LogicalPath="Config1.X20CP1586.mappView.Visualizat.vis"
     Type="File"
-    LastWriteTime="133645539229571794"
+    LastWriteTime="133647114737046737"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\mappView\content_0.binding"
     LogicalPath="Config1.X20CP1586.mappView.content_0.binding"
     Type="File"
-    LastWriteTime="133645539229571794"
+    LastWriteTime="133645576853537741"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\mappView\contenttitle.eventbinding"
+    LogicalPath="Config1.X20CP1586.mappView.contenttitle.eventbinding"
+    Type="File"
+    LastWriteTime="133646636738419181"
+    Private="false" />
+  <Object
+    Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\mappView\content_3.binding"
+    LogicalPath="Config1.X20CP1586.mappView.content_3.binding"
+    Type="File"
+    LastWriteTime="133647113494968130"
     Private="false" />
   <Object
     Path="C:\BRproject\Ag-Rover\Physical\Config1\X20CP1586\mappVision\Package.pkg"

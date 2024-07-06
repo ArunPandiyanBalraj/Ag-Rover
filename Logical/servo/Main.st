@@ -14,7 +14,6 @@ PROGRAM _INIT
 	RightWheel_B.Enable := TRUE;
 	RightWheel_B.MpLink := ADR(gAxis_4);
 	RightWheel_B.Parameters := ADR(AxisParameters);
-	
 END_PROGRAM
 
 PROGRAM _CYCLIC	

@@ -13,6 +13,11 @@
         <Variable Name="Float_1" />
         <Variable Name="RightAct" />
         <Variable Name="KEY" />
+        <Variable Name="AxisParameters">
+          <Variable Name="Position" />
+          <Variable Name="Velocity" />
+          <Variable Name="Acceleration" />
+        </Variable>
       </GlobalVariables>
     </Module>
   </DefaultView>
